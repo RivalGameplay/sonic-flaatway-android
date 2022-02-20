@@ -1,1 +1,2 @@
-Drop your Menu characters shit here
+Put your week backgrounds here!
+They must start with "menu_"
